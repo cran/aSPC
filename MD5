@@ -1,0 +1,14 @@
+0986c565ebab569c0505129da3558f19 *DESCRIPTION
+7d78fee8717a26742025734913ebdc06 *NAMESPACE
+888d69f601ef73955a5ecac28e43e5fe *R/My_DCOR.R
+bf69db002696f9a2246a54c51237b174 *R/aSPC.R
+b50bf5e0dc650150fb1a9fa71b364909 *R/aSPC_dcor2.R
+c2221b058bb0147747ebcf0b93dcbe15 *R/cor_mat.R
+e50ddae5d7d39f19e002db712d5a2a5f *R/dcor_list2.R
+c53ae9cfe1c7d0fcf3533f9c13d0dc69 *R/get_doublyCenterDist.R
+b056fa8249de3dcd2b0d00322c460193 *man/My_DCOR.Rd
+6fa6f202fd8edad76a1d93c759ed6867 *man/aSPC.Rd
+167d45373342ff3016b6714e794f26e9 *man/aSPC_dcor2.Rd
+eb921c8716bac4a059ec9a64d6cfa17f *man/dcor_list2.Rd
+e3a91d31160bec30c835a559f0d969bd *man/dcor_mat.Rd
+213b3c816bff7dcac4d1bc52f3035d73 *man/get_doublyCenterDist.Rd
